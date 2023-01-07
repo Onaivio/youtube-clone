@@ -17,3 +17,13 @@ export const fetchFromAPI = async (url) => {
 
 	return data;
 };
+
+// fetch(url, {
+//     method: "POST",
+//     body: JSON.stringify(),
+//     headers
+//   })
+//     .then((response) => response.json())
+//     .then((response) => {
+
+//     });
